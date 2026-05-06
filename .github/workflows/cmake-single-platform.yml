@@ -34,7 +34,7 @@ jobs:
     - name: Run
       working-directory: ${{github.workspace}}/build
       # Execute the example
-      run: example
+      run: ${{github.workspace}}/build/example
 
 #      - name: Test
 #      working-directory: ${{github.workspace}}/build
