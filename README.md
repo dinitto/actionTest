@@ -1,2 +1,2 @@
 # actionTest
-I'm creating this repository to play with github actions
+This repository is to play with github
